@@ -1,4 +1,4 @@
-\# Neural Network from Scratch (Micrograd)
+\ Neural Network from Scratch (Micrograd)
 
 
 
@@ -6,7 +6,7 @@ A simple neural network and automatic differentiation engine built from scratch 
 
 
 
-\## Features
+\ Features
 
 
 
@@ -26,7 +26,7 @@ A simple neural network and automatic differentiation engine built from scratch 
 
 
 
-\## Neural Network Architecture
+\ Neural Network Architecture
 
 
 
@@ -44,7 +44,7 @@ The implemented neural network uses:
 
 
 
-\## Training
+\ Training
 
 
 
@@ -52,7 +52,7 @@ The network is trained using the sum of squared errors as the loss function and 
 
 
 
-\## Technologies
+\ Technologies
 
 
 
@@ -62,7 +62,7 @@ The network is trained using the sum of squared errors as the loss function and 
 
 
 
-\## Purpose
+\ Purpose
 
 
 
