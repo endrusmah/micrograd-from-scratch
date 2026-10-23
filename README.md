@@ -1,4 +1,4 @@
-\ Neural Network from Scratch (Micrograd)
+*Neural Network from Scratch (Micrograd)*
 
 
 
@@ -6,27 +6,27 @@ A simple neural network and automatic differentiation engine built from scratch 
 
 
 
-\ Features
+*Features*
 
 
 
-\- Scalar-valued automatic differentiation
+- Scalar-valued automatic differentiation
 
-\- Computation graphs and backpropagation
+- Computation graphs and backpropagation
 
-\- Neurons with tanh activation
+- Neurons with tanh activation
 
-\- Fully connected neural network layers
+- Fully connected neural network layers
 
-\- Multi-Layer Perceptron (MLP)
+- Multi-Layer Perceptron (MLP)
 
-\- Gradient descent training
+- Gradient descent training
 
-\- Optional computation graph visualization using Graphviz
+- Optional computation graph visualization using Graphviz
 
 
 
-\ Neural Network Architecture
+*Neural Network Architecture*
 
 
 
@@ -34,17 +34,17 @@ The implemented neural network uses:
 
 
 
-\- 3 input features
+- 3 input features
 
-\- 2 hidden layers with 4 neurons each
+- 2 hidden layers with 4 neurons each
 
-\- 1 output neuron
+- 1 output neuron
 
-\- 41 trainable parameters
+- 41 trainable parameters
 
 
 
-\ Training
+*Training*
 
 
 
@@ -52,17 +52,17 @@ The network is trained using the sum of squared errors as the loss function and 
 
 
 
-\ Technologies
+*Technologies*
 
 
 
-\- Python
+- Python
 
-\- Graphviz (optional, for visualization)
+- Graphviz (optional, for visualization)
 
 
 
-\ Purpose
+*Purpose*
 
 
 
